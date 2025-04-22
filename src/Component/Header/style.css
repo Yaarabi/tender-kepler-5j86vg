@@ -1,0 +1,7 @@
+.btns {
+  display: flex;
+  align-items: end;
+  height: 100%;
+  justify-content: space-evenly;
+  width: 50%;
+}
